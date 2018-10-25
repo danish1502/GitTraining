@@ -6,13 +6,31 @@
         	                  RRRRRRRRR
                 	        R           R
   	                      R               R
- 	 	            RRRRRRRRRRRRRRRRRRRR
-  		          R                       R
- 	 	        R                           R
-      		      R                               R
+ 	 	            R    _________      R
+  		          R     |         |       R
+ 	 	        R       |         |         R
+      		      R         |_________|           R
      		    RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
-   		  R                                       R
- 		R                                           R
+               RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+	       |                                              |
+	       |                                              |
+	       |                                              |
+	       |                                              |
+	       |                                              |
+	       |                                              |
+	       |                                              |
+	       |    !---------!                !---------!    |
+	       |    !         !                !         !    |
+	       |    !         !                !         !    |
+	       |    !         !                !         !    |
+	       |    !---------!                !---------!    |
+	       |                                              |
+	       |                 |---------|                  |
+	       |                 |         |                  |
+	       |                 |         |                  |
+	       |                 |         |                  |
+	       |-----------------|---------|------------------|
+
 		RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 
 
@@ -21,12 +39,4 @@
 
 
 
-
-
-
-
-
-
-
-		================================================
 
