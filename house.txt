@@ -1,3 +1,6 @@
+
+
+
 				      R
         	                    R   R
         	                  R       R
@@ -10,6 +13,7 @@
      		    R                                   R
    		  R                                       R
  		R                                           R
+
                RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 	       |                                              |
 	       |                                              |
@@ -29,4 +33,13 @@
 	       |                 |         |                  |
 	       |                 |         |                  |
 	       |-----------------|---------|------------------|
+
+		RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+
+
+
+
+
+
 
