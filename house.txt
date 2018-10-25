@@ -3,7 +3,7 @@
 
 				      R
         	                    R   R
-        	                  RRRRRRRRR
+        	                  RRRRRRRRR                                                                    
                 	        R           R
   	                      R               R
  	 	            R    _________      R
@@ -23,15 +23,15 @@
 	       |    !         !                !         !    |
 	       |    !         !                !         !    |
 	       |    !         !                !         !    |
-	       |    !---------!                !---------!    |
-	       |                                              |
-	       |                 |---------|                  |
-	       |                 |         |                  |
-	       |                 |         |                  |
-	       |                 |         |                  |
-	       |-----------------|---------|------------------|
+	       |    !---------!                !---------!    |                                                         
+	       |                                              |                                                        XX XX
+	       |                 |---------|                  |                                                      XXXXXXXXX
+	       |                 |         |                  |                                                         XX
+	       |                 |         |                  |								XX		
+	       |                 |         |                  |                                                         XX
+	       |-----------------|---------|------------------|                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx
 
-		RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+		RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR          
 
 
 
