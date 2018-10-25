@@ -3,23 +3,14 @@
 
 				      R
         	                    R   R
-        	                  R       R
+        	                  RRRRRRRRR
                 	        R           R
   	                      R               R
-
-  	 	            R                   R
-  		          R                       R
- 	 	        R                           R
-      		      R                               R
  	 	            R    _________      R
   		          R     |         |       R
  	 	        R       |         |         R
       		      R         |_________|           R
-
-     		    R                                   R
-   		  R                                       R
- 		R                                           R
-
+     		    RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
                RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 	       |                                              |
 	       |                                              |
